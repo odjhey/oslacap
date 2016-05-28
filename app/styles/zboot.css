@@ -1,0 +1,38 @@
+
+
+.navbar {
+
+  border-radius: 0 !important;
+
+}
+
+.jumbotron {
+
+  background-color: #ffffff;
+
+  padding: 0;
+  margin: 0;
+
+
+}
+
+h1 {
+  color: grey !important;
+}
+
+
+#anime2 {
+
+  width: 150px;
+  height: auto;
+
+}
+
+
+#navlogo {
+
+  margin: 3px;
+  width: 30px;
+  height: auto;
+
+}
